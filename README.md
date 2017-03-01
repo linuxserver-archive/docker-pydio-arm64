@@ -88,4 +88,5 @@ For email settings edit the file /config/ssmtp.conf and restart the container.
 
 ## Versions
 
++ **01.03.17:** Modify sed for data path.
 + **19.02.17:** Initial Release.
