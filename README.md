@@ -88,5 +88,6 @@ For email settings edit the file /config/ssmtp.conf and restart the container.
 
 ## Versions
 
++ **03.05.17:** Update to php 7.1x.
 + **01.03.17:** Modify sed for data path.
 + **19.02.17:** Initial Release.
