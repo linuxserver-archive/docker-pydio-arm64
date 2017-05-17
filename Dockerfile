@@ -7,7 +7,7 @@ ARG VERSION
 LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DATE}"
 
 # package version
-ENV PYDIO_VER="7.0.4"
+ENV PYDIO_VER="8.0.0"
 
 # add repositories
 RUN \
