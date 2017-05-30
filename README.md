@@ -88,6 +88,7 @@ For email settings edit the file /config/ssmtp.conf and restart the container.
 
 ## Versions
 
++ **30.05.17:** Rebase to alpine 3.6.
 + **17.05.17:** Make default install pydio 8.
 + **03.05.17:** Update to php 7.1x.
 + **01.03.17:** Modify sed for data path.
