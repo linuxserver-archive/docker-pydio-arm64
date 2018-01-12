@@ -90,7 +90,7 @@ For email settings edit the file /config/ssmtp.conf and restart the container.
 
 ## Versions
 
-+ **12.01.18:** Rebase to alpine 3.6.
++ **12.01.18:** Rebase to alpine 3.7.
 + **28.10.17:** php7-ssh2 moved from testing to community repo.
 + **30.05.17:** Rebase to alpine 3.6.
 + **17.05.17:** Make default install pydio 8.
